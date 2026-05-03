@@ -1,0 +1,13 @@
+# ESP-IDF build output
+build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Editor
+.vscode/
+*.swp
+*.swo
